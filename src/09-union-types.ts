@@ -7,7 +7,7 @@
     if (typeof myText === 'string') {
       console.log(`string ${myText.toLowerCase}`)
     } else {
-      console.log(`numbeer ${myText.toFixed(1)}`)
+      console.log(`number ${myText.toFixed(1)}`)
     }
   }
   greeting('Hola')
